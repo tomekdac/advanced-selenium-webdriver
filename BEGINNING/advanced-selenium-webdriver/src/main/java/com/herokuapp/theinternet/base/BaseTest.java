@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 
-public class BaseTest {
+public class BaseTest extends TestUtilities {
     protected WebDriver driver;
 
     @Parameters({ "browser" })
