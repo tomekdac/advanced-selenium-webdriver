@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FileUploaderTestSuite">
+    <test name="FileUploaderTest">
+        <packages>
+            <package name="com.herokuapp.theinternet.fileuploadertest" />
+        </packages>
+    </test>
+</suite>

@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HoversTestSuite">
+    <test name="HoversTest-CH">
+        <parameter name="browser" value="chrome"/>
+        <packages>
+            <package name="com.herokuapp.theinternet.hoverstest" />
+        </packages>
+    </test>
+    <test name="HoversTest-FF">
+        <parameter name="browser" value="firefox"/>
+        <packages>
+            <package name="com.herokuapp.theinternet.hoverstest" />
+        </packages>
+    </test>
+</suite>
