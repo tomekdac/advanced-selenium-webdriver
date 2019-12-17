@@ -6,23 +6,23 @@
             <package name="com.herokuapp.theinternet.slidertests" />
         </packages>
     </test>
-    <test name="SliderTest-CH-2.5">
+    <test name="SliderTest-CH-2_5">
         <parameter name="browser" value="chrome"/>
         <parameter name="value" value="2.5"/>
         <packages>
             <package name="com.herokuapp.theinternet.slidertests" />
         </packages>
     </test>
-    <test name="SliderTest-CH-1.5">
+    <test name="SliderTest-CH-1_5">
         <parameter name="browser" value="chrome"/>
         <parameter name="value" value="1.5"/>
         <packages>
             <package name="com.herokuapp.theinternet.slidertests" />
         </packages>
     </test>
-    <test name="SliderTest-CH-1.2">
+    <test name="SliderTest-CH-0">
         <parameter name="browser" value="chrome"/>
-        <parameter name="value" value="1.2"/>
+        <parameter name="value" value="0"/>
         <packages>
             <package name="com.herokuapp.theinternet.slidertests" />
         </packages>
